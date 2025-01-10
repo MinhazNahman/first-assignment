@@ -22,8 +22,9 @@ nav ul li{
     padding: 15px 30px;border-radius: 8px; border-color: #006A50;
 }
 .btn-semiprimary{
-    font-weight: 500;font-size: 18px;color: white;
+    font-weight: 500;font-size: 18px;
     padding: 17px 34px;border-radius: 10px;background-color: #006A50;border: none;
+    color: aliceblue;text-decoration: none;
 
 }
 .h4{
@@ -47,4 +48,29 @@ nav ul li{
 .banner-content{
     max-width: 622px;
     
+}
+.section-titel{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+/*pillar style*/
+
+.pillar-container{
+    display: flex;
+    gap: 24px;
+}
+.pillar{
+    padding: 24px;
+    box-shadow: 0px 4px 4px 0px ;color: rgba(0, 0, 0, 0.25);
+border-radius: 16px;background-color: rgba(240, 240, 240, 1);
+}
+.pillar-pera{
+    font-weight: 400;font-size: 16px;color: rgba(14, 14, 14, 0.74)
+}
+.pillar-title{
+    font-weight: bold;font-size: 20px;color: rgba(14, 14, 14, 0.8);
+}
+.about{
+    margin: 100px;
 }
