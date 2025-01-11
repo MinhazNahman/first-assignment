@@ -152,3 +152,75 @@ div li{
 
 
 }
+.input{
+    width: 800px;height: 64px; text-align: center;
+    border: rgba(240, 240, 240, 1);box-shadow: 5px;
+    background-color: rgba(240, 240, 240, 1);color: #0E0E0E;border-radius: 15px;
+}
+.btn-done{
+    font-weight: 500;font-size: 18px;
+    padding: 17px 34px;border-radius: 10px;background-color:rgba(0, 106, 80, 1);border: none;
+    color: aliceblue;
+    text-decoration: none;  
+}
+.t{display: flex;gap: 10px;
+    margin-left: 12%;
+
+}
+
+.n:hover{
+    background-color: rgba(198, 228, 214, 1);
+    
+    
+    
+}
+.n{
+    padding: 40px;font-weight: bold;height: 40px;
+    border-radius: 16px;color: rgb(9, 9, 9);
+    box-shadow: 2px;background-color:rgba(240, 240, 240, 1);
+
+}
+.r{
+    margin: 100px;
+}
+.y{
+    text-align: center;
+}
+.btn-done{
+    text-align: center;margin-top: 10px;margin-left: 40%;
+}
+.e{
+    border: rgba(240, 240, 240, 1);box-shadow: 4px;margin-left: 10%;
+    width: full;
+}
+
+
+    
+
+.Amount{
+    font-weight: 500;font-size: 18px;
+    padding: 17px 34px;border-radius: 10px;background-color:rgba(240, 240, 240, 1);border: none;
+    color: aliceblue;
+    text-decoration: none;   
+}
+
+.Subscribe-section{
+    text-align: center;margin-left: 0%;background-color: rgba(198, 228, 214, 1);width: 1000;
+    height: 300px;margin: 160px;margin-top: 0px;
+}
+.Subscribe{
+    padding: 14px;border-radius: 10px 0px 0px 10px ;border: none;
+    margin-left: 40%;
+
+}
+.div-Subscribe{
+    display: flex;
+}
+.Subscribe-btn{
+    border-radius: 0px 10px 10px 0px; border: none;color: rgb(232, 236, 235);
+    background-color: #006A50;
+    
+}
+.Subscribe-div{
+   bottom: 0px; padding: 10px;
+}
